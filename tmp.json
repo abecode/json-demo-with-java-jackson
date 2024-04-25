@@ -1,0 +1,11 @@
+{
+    "title": "example json document",
+    "dictionary": 
+    {
+        "this is":
+        {
+            "a nested": "dictionary, a.k.a. hash"
+        }
+    },
+    "list": ["this", "is", "a", "list", "of", "strings", "and", {"a":"hash/dict"}]
+}
