@@ -4,7 +4,7 @@
     {
         "this is":
         {
-            "a nested": "dictionary, a.k.a. hash"
+            "a nested": "dictionary, a.k.a. hash, a.k.a. map"
         }
     },
     "list": ["this", "is", "a", "list", "of", "strings", "and", {"a":"hash/dict"}]
